@@ -1,7 +1,9 @@
 Problem #1
 
 a.	The attributes that are stored for an individual user in a shadow file are:
+  
   i.	Username
+  
   ii.	Encrypted password
   iii.	Date of last password change
   iv.	Minimum required days between password changes
